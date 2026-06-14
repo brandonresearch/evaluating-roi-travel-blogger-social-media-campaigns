@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Evaluating ROI in Travel Blogger Social Media Campaigns: Attribution, Measurement, and Misalignment in Influencer-Based Tourism Marketing"
+message: "If you use this report, please cite it as below."
+type: report
+authors:
+  - family-names: Himpfen
+    given-names: Brandon
+version: "1.0"
+date-released: "2026-05-09"
+license: CC-BY-4.0
+keywords:
+  - travel bloggers
+  - influencer marketing
+  - tourism marketing
+  - ROI
+  - attribution
+  - social media
+  - campaign evaluation
+  - travel marketing
+doi: "10.5281/zenodo.20103109"
+url: "https://doi.org/10.5281/zenodo.20103109"
+preferred-citation:
+  type: report
+  title: "Evaluating ROI in Travel Blogger Social Media Campaigns: Attribution, Measurement, and Misalignment in Influencer-Based Tourism Marketing"
+  authors:
+    - family-names: Himpfen
+      given-names: Brandon
+  year: 2026
+  version: "1.0"

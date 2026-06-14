@@ -1,0 +1,32 @@
+{
+  "title": "Evaluating ROI in Travel Blogger Social Media Campaigns: Attribution, Measurement, and Misalignment in Influencer-Based Tourism Marketing",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "creators": [
+    {
+      "name": "Himpfen, Brandon",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "This research report examines how return on investment (ROI) is measured and interpreted in travel blogger and influencer social media campaigns. It distinguishes exposure, engagement, attribution, and business outcome metrics, reviews selected public campaign examples, and proposes a structured framework for evaluating campaign effectiveness in tourism marketing.",
+  "keywords": [
+    "travel bloggers",
+    "influencer marketing",
+    "tourism marketing",
+    "ROI",
+    "attribution",
+    "social media",
+    "campaign evaluation",
+    "travel marketing"
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20103109",
+      "relation": "isIdenticalTo",
+      "scheme": "doi"
+    }
+  ]
+}
